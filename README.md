@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">PyFlutter & Dart - The Complete Guide Course Resources</h3>
+  <h3 align="center">Flutter & Dart - The Complete Guide Course Resources</h3>
 </p>
 
 [![certificate ui][product-ui]](https://example.com)
