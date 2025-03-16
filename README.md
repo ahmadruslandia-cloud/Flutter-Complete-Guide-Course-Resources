@@ -1,3 +1,11 @@
+<p align="center">
+  <h3 align="center">PyFlutter & Dart - The Complete Guide Course Resources</h3>
+</p>
+
+[![certificate ui][product-ui]](https://example.com)
+
+[product-ui]: certificate.jpg
+
 # Flutter & Dart - The Complete Guide Course Resources
 
 This repository contains various course resources (code snapshots, slides etc.) for our [Flutter & Dart - The Complete Guide course](https://acad.link/flutter).
